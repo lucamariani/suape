@@ -1,0 +1,11 @@
+it:
+  - title: Cittadini
+    url: /it/cittadini
+  - title: Publiche Amministrazioni / Intermediari
+    url: /it/pai
+
+en:
+  - title: Citizens
+    url: /en/Citizens
+  - title: Public Administration / Middlemans
+    url: /en/pai
